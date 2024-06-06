@@ -21,3 +21,4 @@
     - Use `X-CSRFToken` in Headers
     - Set sessionid and csrftoken in cookies
 
+- Api calls are in `Social_Media.json` file
